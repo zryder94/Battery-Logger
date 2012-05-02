@@ -1,0 +1,144 @@
+Partlist
+
+Exported from Prototype 4.sch at 4/30/2012 8:23:52 AM
+
+EAGLE Version 6.0.0 Copyright (c) 1988-2011 CadSoft
+
+Assembly variant: 
+
+Part     Value                Device               Package        Library        Sheet
+
+BAT      3v                   CR1220THM            CR1220-THM     adafruit       1	3001K-ND
+C1       0.1uF                C-US050-024X044      C050-024X044   adafruit       1	478-6008-ND
+C2       0.1uF                C-US050-024X044      C050-024X044   adafruit       1	478-6008-ND
+C3       1uf                  CPOL-USE2,5-6E       E2,5-6E        resistor       1	ECA-1HM010
+F1       1A                   SH22,5               SH22,5         fuse           1	486-1258-ND
+H1       MOUNT-PAD-ROUND4.3   MOUNT-PAD-ROUND4.3   4,3-PAD        holes          1
+H2       MOUNT-PAD-ROUND4.3   MOUNT-PAD-ROUND4.3   4,3-PAD        holes          1
+H4       MOUNT-PAD-ROUND4.3   MOUNT-PAD-ROUND4.3   4,3-PAD        holes          1
+IC1      ACS758LCB-100B-PFF-T ACS758LCB-100B-PFF-T CB-PFF         allegro        1	620-1320-ND	40mV/A
+IC2      DS1307               DS1307               DIL08          adafruit       1	DS1307+-ND
+IC3      MCP2300X/P           MCP2300X/P           DIL18          adafruit       1	MCP23008-E/P-ND
+J1       22-27-2031-03        22-27-2031-03        6410-03        con-molex      1	WM4201-ND
+JP1                           PINHD-1X3            1X03           adafruit       1	A26509-40-ND
+K1       TK1-4.5V             TK1-4.5V             TK             relay          1	255-1757-5-ND
+LED1                          LED5MM               LED5MM         adafruit       1	C503B-RCN-CW0Z0AA1-ND
+Q1       32.768               CRYSTALTC38H         TC38H          crystal        1	300-8763-ND
+Q3       BC517                BC517                TO92           transistor-npn 1	BC517RL1GOSCT-ND
+R1       2.2K                 R-US_0207/10         0207/10        adafruit       1	2.2KH-ND
+R2       2.2K                 R-US_0207/10         0207/10        adafruit       1	2.2KH-ND
+R3       100                  R-US_0207/10         0207/10        adafruit       1	100H-ND
+R4       100K                 R-US_0207/10         0207/10        adafruit       1	100KADCT-ND
+R5       15K                  R-US_0207/10         0207/10        adafruit       1	15KADCT-ND
+R6       2.4K 0.5W            R-US_0207/10         0207/10        adafruit       1	2.4KH-ND
+R7       100k                 TRIM_US-B25U         B25U           pot            1	3362U-104LF-ND
+R8       15k                  R-US_0207/10         0207/10        adafruit       1	15KH-ND
+R9       100k                 R-US_0207/10         0207/10        adafruit       1	100KH-ND
+R10      100k                 R-US_0207/10         0207/10        adafruit       1	100KH-ND
+R11      100k                 R-US_0207/10         0207/10        adafruit       1	100KH-ND
+R12      100k                 R-US_0207/10         0207/10        adafruit       1	100KH-ND
+R13      100k                 R-US_0207/10         0207/10        adafruit       1	100KH-ND
+S1                            320-938              320-938        switch         1	A201P3ZQ04-ND
+S2       TL32PO               TL32PO               TL3XPO         switch         1	SW630-ND
+S3       TL32PO               TL32PO               TL3XPO         switch         1	SW630-ND
+S4       TL32PO               TL32PO               TL3XPO         switch         1	SW630-ND
+S5       TL32PO               TL32PO               TL3XPO         switch         1	SW630-ND
+S6       TL32PO               TL32PO               TL3XPO         switch         1	SW630-ND
+U$1      ARDUINO-NOHOLE       ARDUINO-NOHOLE       ARDUINO-NOHOLE adafruit       1
+X2       5566-18              5566-18              5566-18        con-molex      1	WM3883-ND
+X3       HD44780LCD-1602      HD44780LCD-1602      LCD1602        adafruitedit   1
+				8 pin IC Socket						3M5473-ND
+				18 pin IC Socket					3M5464-ND
+				Resistor mounting kit					K3003-ND
+
+
+5v non-latching relay 255-1028-5-ND
+4.5v non-latching relay 255-1757-5-ND
+
+pushbutton switches SW630-ND
+
+Resistor mounting kit	K3003-ND
+
+
+Index	Quantity	Part Number	Description	Customer Reference	Backorder Quantity	Unit Price	Extended Price
+1	2	K3003-ND	MOUNTING KIT FOR FSE 1000		0	14.28000	$28.56
+2	1	3001K-ND	HOLDER BATTERY COIN 12MM DIA THM		0	0.57000	$0.57
+3	10	478-6008-ND	CAP CER 0.1UF 50V 5% RADIAL		0	0.41000	$4.10
+4	2	P5174-ND	CAP ALUM 1UF 50V 20% RADIAL		0	0.20000	$0.40
+5	1	486-1258-ND	FUSEHOLDER 22.5MM PCB 5X20MM BK		0	0.67000	$0.67
+6	1	620-1320-ND	SENSOR CURRENT 50A 5V BI 5-CB		0	7.00000	$7.00
+7	1	DS1307+-ND	IC RTC SERIAL 512K 8-DIP		0	3.81000	$3.81
+8	1	MCP23008-E/P-ND	IC I/O EXPANDER I2C 8B 18DIP		0	1.22000	$1.22
+9	3	WM4201-ND	CONN HEADER 3POS .100 VERT TIN		0	0.56000	$1.68
+10	2	A26509-40-ND	CONN HDR BRKWAY .100 40POS VERT		0	1.90000	$3.80
+11	1	255-1757-5-ND	RELAY GEN PURPOSE SPDT 2A 4.5V		0	5.29000	$5.29
+12	10	C503B-RCN-CW0Z0AA1-ND	LED 5MM RED CLEAR 624NM 30DEG		0	0.14000	$1.40
+13	2	300-8763-ND	CRYSTAL 32.768 KHZ 12.5PF CYL		0	0.70000	$1.40
+14	2	BC517RL1GOSCT-ND	TRANS DARL NPN 30V 1A TO-92		0	0.56000	$1.12
+15	10	2.2KH-ND	RES 2.2K OHM 1/2W 5% CARBON FILM		0	0.08300	$0.83
+16	5	100H-ND	RES 100 OHM 1/2W 5% CARBON FILM		0	0.10000	$0.50
+17	2	100KADCT-ND	RES 100K OHM 1/4W 0.1% MF AXL		0	0.55000	$1.10
+18	2	15KADCT-ND	RES 15K OHM 1/4W 0.1% MF AXL		0	0.55000	$1.10
+19	10	2.4KH-ND	RES 2.4K OHM 1/2W 5% CARBON FILM		0	0.08300	$0.83
+20	2	3362U-104LF-ND	TRIMMER 100K OHM 0.5W TH		0	1.05000	$2.10
+21	10	15KH-ND	RES 15K OHM 1/2W 5% CARBON FILM		0	0.08300	$0.83
+22	2	A201P3ZQ04-ND	SWITCH TOGGLE DPDT WIRE LUG SLV		0	4.10000	$8.20
+23	5	SW630-ND	SWITCH PUSH SPST-NO 3A 125V		0	1.81000	$9.05
+24	1	WM3883-ND	CONN HEADER 18POS 4.2MM VERT TIN		0	3.09000	$3.09
+25	2	3M5473-ND	SOCKET IC OPEN FRAME 8POS .3"		0	0.29000	$0.58
+26	2	3M5464-ND	SOCKET IC OPEN FRAME 18POS .3"		0	0.30000	$0.60
+27	10	S100KHCT-ND	RES 100K OHM 1/2W 5% CF MINI		0	0.07800	$0.78
+Subtotal	$90.61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current Sensor parts
+
+Index	Quantity	Part Number	Description	Customer Reference	Backorder Quantity	Unit Price	Extended Price
+1	1	620-1353-ND	IC SENSOR CURRENT 50A UNI 3-CB		0	7.00000	$7.00
+2	10	100KADCT-ND	RES 100K OHM 1/4W 0.1% MF AXL		0	0.43700	$4.37
+3	10	15KADCT-ND	RES 15K OHM 1/4W 0.1% MF AXL		0	0.43700	$4.37
+4	5	478-6008-ND	CAP CER 0.1UF 50V 5% RADIAL		0	0.58000	$2.90
+5	2	TIP102-BP-ND	TRANSISTOR NPN 8A 100V TO-220		0	1.40000	$2.80
+6	1	255-1764-5-ND	RELAY LATCH LOPRO 2A 5VDC PCB		0	5.81000	$5.81
+7	2	WM23708-ND	CONN RECEPT 18POS DUAL		0	1.71000	$3.42
+8	1	WM3883-ND	CONN HEADER 18POS 4.2MM VERT TIN		0	3.17000	$3.17
+9	40	WM3118CT-ND	CONN TERM FEMALE 16AWG TIN		0	0.31200	$12.48
+10	2	PC40P-ND	PCB COPPER CLAD POS 3X4.5"2 SIDE		0	8.01000	$16.02
+11	1	A201P3ZQ04-ND	SWITCH TOGGLE DPDT WIRE LUG SLV		0	4.03000	$4.03
+12	1	3362U-104LF-ND	TRIMMER 100K OHM 0.5W TH		0	1.05000	$1.05
+13	2	987-1311-ND	POT ROTARY 5K OHM 16MM SOLDER		0	0.76000	$1.52
+14	1	DS1307+-ND	IC RTC SERIAL 512K 8-DIP		0	4.23000	$4.23
+15	2	486-1258-ND	FUSEHOLDER 22.5MM PCB 5X20MM BK		0	0.64000	$1.28
+16	1	CP-102A-ND	CONN JACK POWER 2.1MM PCB		0	0.92000	$0.92
+17	10	C503B-RCN-CW0Z0AA1-ND	LED 5MM RED CLEAR 624NM 30DEG		0	0.14000	$1.40
+18	1	300-8763-ND	CRYSTAL 32.768 KHZ 12.5PF CYL		0	0.70000	$0.70
+19	5	2.4KH-ND	RES 2.4K OHM 1/2W 5% CARBON FILM		0	0.12800	$0.64
+20	5	2.2KH-ND	RES 2.2K OHM 1/2W 5% CARBON FILM		0	0.12800	$0.64
+21	1	3001K-ND	HOLDER BATTERY COIN 12MM DIA THM		0	0.68000	$0.68
+22	1	P033-ND	BATTERY LITHIUM COIN 3V 12.5MM		0	0.95000	$0.95
+23	1	A26509-40-ND	CONN HDR BRKWAY .100 40POS VERT		0	1.76000	$1.76
+24	1	3M5473-ND	SOCKET IC OPEN FRAME 8POS .3"		0	0.54000	$0.54
+Subtotal	$82.68
+Shipping	Estimate
+Sales Tax	$5.89
+Total	unknown
